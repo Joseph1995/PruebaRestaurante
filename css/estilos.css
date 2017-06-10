@@ -1,0 +1,46 @@
+
+.texto1{
+  font-family: 'Rock Salt', cursive;
+}
+.promociones{
+    font-family: 'Rock Salt', cursive;
+    font-size: 2em;
+}
+@media (max-width: 320px) {
+  .promociones {
+    font-size: 1em;
+  }
+}
+.myFooter{
+  background-color: #292b2c;
+  color: white;
+}
+a:link{
+color: white;
+ text-decoration: none;
+}
+a:hover{
+color: white;
+ text-decoration: none;
+}
+a:visited{
+color: white;
+ text-decoration: none;
+}
+
+.google-maps {
+position: relative;
+padding-bottom: 50%;
+height: 0;
+overflow: hidden;
+}
+.google-maps iframe {
+position: absolute;
+top: 0;
+left: 0;
+width: 100% !important;
+height: 80% !important;
+}
+.modal{
+  color: black;
+}
