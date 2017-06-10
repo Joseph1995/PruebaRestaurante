@@ -1,2 +1,2 @@
 # PruebaRestaurante
-Prueba de restuarante frontend
+Prueba de restaurante frontend, utilizar un servidor local para ejecutar las funciones de php
